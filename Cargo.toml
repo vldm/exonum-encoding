@@ -1,0 +1,11 @@
+[package]
+name = "exonum-encoding"
+version = "0.1.0"
+authors = ["Vladimir Motylenko <vladimir.motylenko@xdev.re>"]
+
+[dependencies]
+serde_json ="*"
+serde = "*"
+
+byteorder = "*"
+serde_derive="*"
